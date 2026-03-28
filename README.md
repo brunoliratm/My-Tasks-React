@@ -3,10 +3,8 @@
 A task management web app built with React, Vite, and Tailwind CSS, focused on productivity, a clean interface, and a responsive experience for desktop and mobile.
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-My--Tasks--React-181717?style=for-the-badge&logo=github)](https://github.com/brunoliratm/My-Tasks-React)
-[![License](https://img.shields.io/github/license/brunoliratm/My-Tasks-React?style=for-the-badge)](https://github.com/brunoliratm/My-Tasks-React/blob/main/LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/brunoliratm/My-Tasks-React?style=for-the-badge)](https://github.com/brunoliratm/My-Tasks-React/commits/main)
 [![Top Language](https://img.shields.io/github/languages/top/brunoliratm/My-Tasks-React?style=for-the-badge)](https://github.com/brunoliratm/My-Tasks-React)
-[![Stars](https://img.shields.io/github/stars/brunoliratm/My-Tasks-React?style=for-the-badge)](https://github.com/brunoliratm/My-Tasks-React/stargazers)
 
 ## Table of Contents
 
